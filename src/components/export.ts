@@ -1,0 +1,1 @@
+export { default as gatoImg  } from './Cats/Cats'
